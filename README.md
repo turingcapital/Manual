@@ -1,5 +1,8 @@
 # Overview
-Turing is a cryptocurrency hedge fund.
+Turing is a cryptofund. We make seed investments in blockchain companies.
 
-Contact
+## Contact
 michael@turing.capital
+[Twitter](https://www.twitter.com/mikekarnj "Twitter")
+[LinkedIn](https://www.linkedin.com/in/mikekarnj "LinkedIn")
+[Writings](https://www.medium.com/mikekarnj "Writings")
