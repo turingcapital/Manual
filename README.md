@@ -1,5 +1,5 @@
 # Overview
-Turing is a cryptofund. We make seed investments in blockchain companies.
+Turing is a cryptofund. We make investments in blockchain protocols and tokens.
 
 
 ## Contact
@@ -9,4 +9,4 @@ michael@turing.capital
 
 [LinkedIn](https://www.linkedin.com/in/mikekarnj "LinkedIn")
 
-[Writings](https://www.medium.com/mikekarnj "Writings")
+[Writings](https://www.medium.com/@mikekarnj "Writings")
