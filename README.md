@@ -10,10 +10,7 @@ Turing is a cryptofund. We make investments in blockchain protocols and tokens.
 ## Projects
 [Turing Complete](http://www.turingcomplete.co/ "Turing Complete")
 
-[Whitepaper Notes](https://whitepapernotes.com "Whitepaper Notes") 
-
-
 ## Contact
-michael@turing.capital
+hello@turing.capital
 
 [Twitter](https://www.twitter.com/turingcapital "Twitter")
