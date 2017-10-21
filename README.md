@@ -10,7 +10,10 @@ We’re hackers, deep thinkers, and rule breakers.
 
 We look for teams with an ambitious vision. We like to invest at the earliest stages and roll up our sleeves. We help our teams on strategy, token sales, fundraising, marketing, recruiting, design, company building, and coaching.
 
-## DAO
+### Our Team
+We're Michael Karnjanaprakorn (Founder of Skillshare), Connor Lin, Felix Feng, and Jeff Chang.
+
+### DAO
 Turing is structured as a decentralized autonomous organization (DAO). Anyone can join and contribute to our network. 
 
 We're currently looking for content editors, scouts, analysts, and technical advisors. Contact us if interested.
