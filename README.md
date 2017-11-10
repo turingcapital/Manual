@@ -27,6 +27,6 @@ We're currently looking for content editors, scouts, analysts, and technical adv
 [Turing Complete](http://www.turingcomplete.co/ "Turing Complete")
 
 ## Contact
-hello@turing.capital
+michael@turing.capital
 
 [Twitter](https://www.twitter.com/turingcapital "Twitter")
