@@ -16,7 +16,7 @@ We're Michael Karnjanaprakorn (founder of Skillshare), Connor Lin, Felix Feng, J
 ### DAO
 Turing is structured as a decentralized autonomous organization (DAO). Anyone can join and contribute to our network. By joining you will get access to 1) our Slack; 2) our dealflow; and 3) our network. 
 
-We're currently looking for content editors, scouts, analysts, and technical advisors. 
+We're currently looking for scouts, analysts, and technical advisors. 
 [Contact us if interested](https://docs.google.com/forms/d/e/1FAIpQLScp8nNGnC_CBJ8Y3TErQKldsZ-aAaKm7o57A13o_xPN5nrAdw/viewform "Contact us if interested")
 
 ## Writings
@@ -25,9 +25,6 @@ We're currently looking for content editors, scouts, analysts, and technical adv
 [Token Network Effects](https://medium.freecodecamp.com/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862 "Token Network Effects")
 
 [Evaluating Tokens and ICOs](https://hackernoon.com/evaluating-tokens-and-icos-e6c22c1885bb "Evaluating Tokens and ICOs")
-
-## Projects
-[Turing Complete](http://www.turingcomplete.co/ "Turing Complete")
 
 ## Contact
 hello@turing.capital
