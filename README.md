@@ -14,10 +14,7 @@ We look for teams with an ambitious vision. We like to invest at the earliest st
 We're Michael Karnjanaprakorn, Connor Lin, Felix Feng, Jeff Chang and George Lambeth.
 
 ### DAO
-Turing is structured as a decentralized autonomous organization (DAO). Anyone can join and contribute to our network. By joining you will get access to 1) our Slack; 2) our dealflow; and 3) our network. 
-
-We're currently looking for scouts, analysts, and technical advisors. 
-[Contact us if interested](https://docs.google.com/forms/d/e/1FAIpQLScp8nNGnC_CBJ8Y3TErQKldsZ-aAaKm7o57A13o_xPN5nrAdw/viewform "Contact us if interested")
+Turing is structured as a decentralized autonomous organization (DAO). Anyone can join and contribute to our network. We're investors, engineers, and analysts. By joining you will get access to 1) our Slack; 2) our dealflow; and 3) our network. 
 
 ## Writings
 [The Beginner’s Guide to Ethereum’s Roadmap](https://hackernoon.com/the-beginners-guide-to-ethereum-s-2020-roadmap-2ac5d2dd4881 "The Beginner’s Guide to Ethereum’s Roadmap")
