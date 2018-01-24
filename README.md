@@ -9,7 +9,7 @@ We are for founders, by founders.
 Turing is the "paypal mafia" in crypto. We are a collection of the best angel investors. Our members have started $100M+ startups, run mining pools, core contributors to some of the most important projects in the space, and have extensive experience in venture capital.
 
 ### Our Team
-We're Michael Karnjanaprakorn (founder of Skillshare), Connor Lin (founder of Carbon), Felix Feng (founder of Set Protocol), Jeff Chang (Pinterest) and George Lambeth, among many other members.
+We're Michael Karnjanaprakorn (founder of Skillshare), Connor Lin (founder of Carbon), Felix Feng (founder of Set Protocol), Jeff Chang (Pinterest) and George Lambeth (ex-ConsenSys), among many other members.
 
 ### Our Investments
 We look for teams with an ambitious vision. We like to invest at the earliest stages and roll up our sleeves. We help our teams on strategy, token sales, fundraising, marketing, recruiting, design, company building, and everything in between.
