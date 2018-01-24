@@ -4,9 +4,9 @@
 Turing is a cryptofund. We incubate and invest in blockchain companies, protocols, and tokens.
 
 ### About Us
-Turing is for founders, by founders.
+We are for founders, by founders.
 
-We are a collection of the best angel investors in crypto. Our members have started $100M+ startups, run mining pools, core contributors to some of the most important projects in the space, and have extensive experience in venture capital.
+Turing is the "paypal mafia" in crypto. We are a collection of the best angel investors. Our members have started $100M+ startups, run mining pools, core contributors to some of the most important projects in the space, and have extensive experience in venture capital.
 
 We look for teams with an ambitious vision. We like to invest at the earliest stages and roll up our sleeves. We help our teams on strategy, token sales, fundraising, marketing, recruiting, design, company building, and everything in between.
 
